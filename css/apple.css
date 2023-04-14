@@ -1,0 +1,84 @@
+*{
+    font-family: sans-serif;
+}
+
+#pera{
+    background-color: rgb(250, 245, 245);
+    padding: 11px;
+}
+#main1{
+    text-align: center;
+    height: 200px;
+}
+#heading{
+    font-size: 50px;
+    margin: 1px;
+}
+.sideheading{
+    padding: 0px;
+    margin: 10px;
+    font-size: 28px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+.a2{
+    font-size: 20px;
+}
+#image{
+    width: 991px;
+    height: 500px;
+    padding-right: 92px;
+    margin: 0px;
+    padding-top: 14px;
+    margin-bottom: 7px;
+}
+#main2{
+    text-align: center;
+    background-color: rgb(79, 64, 87);
+    margin-top: -14px;
+
+}
+#sideheading2{
+    font-size: 28px;
+    margin: 12PX;
+}
+#heading2{
+    padding-top: 24px;
+    padding-bottom: -13px;
+    margin: -4px;
+    font-size: 50px;
+    font-weight: bolder;
+    color: white;
+}
+#img2{
+    width: 895px;
+}
+.pera2{
+    font-size: 11px;
+    color: rgb(146, 145, 145);
+    line-height: 15px;
+}
+#main3{
+    background-color: rgb(241, 234, 234);
+    font-size: 11PX;
+}
+#points{
+    width: 900px;
+    padding-left: 119px;
+    padding-top: 19px;
+}
+
+/* th{
+    padding: px;
+    padding-left: 110px;
+    padding-top: 0px;
+} */
+td{
+    color: rgb(146, 145, 145);    
+}
+.last{
+    padding-left: 122px;
+    color: rgb(146, 145, 145);
+}
